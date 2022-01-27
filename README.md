@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @azur1989
-- 👀 I’m interested ruby ​​and I'm interested in learning data science
-- 🌱 I’m currently learning ruby
-- 💞️ I’m looking to collaborate on proyect Ruby to affirm knowledge and fully understand how it works
+- 👀 I’m interested my sql ​​and I'm interested in learning data science
+- 🌱 I’m currently learning my sql
+- 💞️ I’m looking to collaborate on proyect mySQL to affirm knowledge and fully understand how it works
 - 📫 How to reach me ...
 
 <!---
