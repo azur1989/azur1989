@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azur1989
-- 👀 I’m interested my sql ​​and I'm interested in learning data science
-- 🌱 I’m currently learning my sql
+- 👀 I’m interested learning primary My SQL
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on proyect mySQL to affirm knowledge and fully understand how it works
 - 📫 How to reach me ...
 
